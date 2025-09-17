@@ -33,7 +33,7 @@ Você pode abrir os arquivos `.gmind` diretamente na plataforma [GitMind](https:
 **Visualização Git**  
 ![Git-Visualização](Git-Visualização.png)  
 
-> **Dica:** Para abrir cada mapa mental interativamente, clique nos arquivos `.gmind` correspondentes ou abra-os diretamente no [GitMind](https://gitmind.com/).
+> **Dica:** Para editar cada mapa mental, carregue os arquivos `.gmind` correspondentes no [GitMind](https://gitmind.com/).
 
 ---
 
